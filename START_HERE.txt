@@ -1,0 +1,21 @@
+GREITA INSTRUKCIJA
+
+GitHub → New repository
+Pavadinimas: 5D-Muscle-Log
+Public → Create repository
+Add file → Upload files
+Įkelk VISUS failus
+Commit changes
+
+Tada:
+Settings → Pages
+Source: Deploy from a branch
+Branch: main
+Folder: /(root)
+Save
+
+Android:
+Chrome → ⋮ → Install app / Add to Home screen
+
+iPhone:
+Safari → Share → Add to Home Screen
